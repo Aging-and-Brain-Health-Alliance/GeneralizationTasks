@@ -51,7 +51,7 @@ def fix_instruments(tasks_data: pd.DataFrame) -> pd.DataFrame:
     return tasks_data
 
 def fix_dates(tasks_data: pd.DataFrame) -> pd.DataFrame:
-    input_date_format = "%A, %B %m, %Y"
+    input_date_format = "%A, %B %d, %Y"
     tasks_data["date"] = tasks_data["date"].apply(lambda date: date.strip("\""))
     tasks_data["date"] = tasks_data["date"].apply(lambda date: datetime.strptime(date, input_date_format))
     return tasks_data
