@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 from datetime import datetime
-from GluckLab.utils import subjectid_to_seqid as s2s
+import subjectid_to_seqid as s2s
 
 def get_summaries_data(summaries_path: str) -> pd.DataFrame:
     data = pd.DataFrame()
