@@ -45,7 +45,7 @@ first install the PsychoPy app. The following section explains how.
 
 ### Install PsychoPy
 
-- Download and install [the latest version of the PsychoPy standalone app][PsychoPyDownloadInstructions].
+- Download and install [PsychoPy standalone app (version 2024.1.4)][PyschoPy2024.1.4].
 All versions of the Standalone app can be found [here][PsychoPyReleases].
   
 - MacOS users may have to give permission to PsychoPy to control their computer. To do this:
@@ -176,6 +176,7 @@ documentation](./documentation/utils_documentation.md)
 
 [PsychoPyDownloadInstructions]: https://www.psychopy.org/download.html
 [PsychoPyReleases]: https://github.com/psychopy/psychopy/releases
+[PyschoPy2024.1.4]: https://github.com/psychopy/psychopy/releases/tag/2024.1.4
 [PyschoPy2023.1.2]: https://github.com/psychopy/psychopy/releases/tag/2023.1.2
 [PyschoPy2023.1.2Windows]: https://github.com/psychopy/psychopy/releases/download/2023.1.2/StandalonePsychoPy-2023.1.2-win64.exe
 [PyschoPy2023.1.2MacOS]:https://github.com/psychopy/psychopy/releases/download/2023.1.2/StandalonePsychoPy-2023.1.2-macOS.dmg
