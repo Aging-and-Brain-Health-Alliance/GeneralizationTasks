@@ -180,7 +180,7 @@ documentation](./documentation/utils_documentation.md)
 [PyschoPy2023.1.2]: https://github.com/psychopy/psychopy/releases/tag/2023.1.2
 [PyschoPy2023.1.2Windows]: https://github.com/psychopy/psychopy/releases/download/2023.1.2/StandalonePsychoPy-2023.1.2-win64.exe
 [PyschoPy2023.1.2MacOS]:https://github.com/psychopy/psychopy/releases/download/2023.1.2/StandalonePsychoPy-2023.1.2-macOS.dmg
-[GluckLabZippedRepo]: https://github.com/jlmojicaperez/GluckLab/archive/refs/heads/main.zip
+[GluckLabZippedRepo]: https://github.com/Aging-and-Brain-Health-Alliance/GeneralizationTasks/archive/refs/heads/main.zip
 [RutgersBrainLogo]: ./imgs/Rutgers-AgingAndBrainHealthAllianceLogo.png
 [RutgersBrainHealthWebsite]: https://brainhealth.rutgers.edu/
 
